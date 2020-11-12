@@ -1,0 +1,20 @@
+- [ ] Section 6: Object Oriented Programming 00/19 | 1hr 48min
+	- [ ] 091. Section Overview | 6min Resources
+	- [ ] 092. OOP and FP | 4min
+	- [ ] 093. OOP Introduction | 3min
+	- [ ] 094. OOP1: Factory Functions | 8min Resources
+	- [ ] 095. OOP2: Object.create() | 8min Resources
+	- [ ] 096. OOP3: Constructor Functions | 13min Resources
+	- [ ] 097. More Constructor Functions | 9min Resources
+	- [ ] 098. Funny Thing About JS... | 3min
+	- [ ] 099. OOP4: ES6 Classes | 9min Resources
+	- [ ] 100. Object.create() vs Class | 2min
+	- [ ] 101. this - 4 Ways | 5min Resources
+	- [ ] 102. Inheritance | 15min Resources
+	- [ ] 103. Inheritance 2 | 5min Resources
+	- [ ] 104. ES2020: Private Class Variables | 1min
+	- [ ] 105. Public vs Private | 4min
+	- [ ] 106. OOP in React.js | 3min
+	- [ ] 107. 4 Pillars of OOP | 8min Resources
+	- [ ] 108. Exercise: OOP and Polymorphism | 1min Resources
+	- [ ] 109. Reviewing OOP | 2min
